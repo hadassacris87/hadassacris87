@@ -7,8 +7,8 @@
 <img src="https://64.media.tumblr.com/854dd1776b9a7efc82697a9250bfe0e8/e847bbedcd13c8e7-56/s540x810/1bc72a39d512909b758c4bd02af8ebb9acfc7187.gif" width="5000px">
 
 
-- 🚀 Atualmente estou aprendendo: Desenvolvimento de sistemas no SENAC
-- 💬 Pergunte-me sobre: como dormir por 12 horas seguidas, remédios, músicas e sobre séries e filmes 
+- 🚀 Atualmente estou cursando: Desenvolvimento de sistemas no SENAC MEDIOTEC
+- Linguagens de dominio: C, C++, Java, Java Script, SQL, HTML, CSS
 
 
 <div align="center">
