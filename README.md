@@ -1,6 +1,6 @@
-# [Hadassa] <img src="https://media1.popsugar-assets.com/files/thumbor/WAQpIsZ5MzWY6vqfsaOdGuRn71A=/fit-in/500x324/top/filters:format_auto():upscale()/2014/11/14/908/n/1922283/5260a7715f47b446_tumblr_m2hbu8EpdA1rs55b4o1_500.gif" width="200px">
+# [Hadassa] 
 
-<strong>Sou torcedora do Sport</strong> 👨🏻‍💻 
+<strong> Estudante de programação </strong> 👨🏻‍💻 
 
 
 
